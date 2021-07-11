@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "guajirodream-admin"
+    }
+  },
+  "defaultProject": "guajirodream-admin",
+  "cli": {
+    "analytics": false
+  }
 }
